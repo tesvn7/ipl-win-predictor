@@ -2,7 +2,7 @@
 ![Logo](https://raw.githubusercontent.com/tesvn7/web-image-hosting/main/ipl_cover.webp)
 
 
-# IPL Match Prediction  |  🌍 [Live](https://ipl-win-predictor-drxy.onrender.com)
+# IPL Match Prediction  |  🌍 [Live](https://lr-ipl-win-predictor.streamlit.app)
 
 This project is aimed at predicting the outcome of IPL matches based on certain input parameters such as batting team, bowling team, host city, target score, current score, overs completed, and wickets out. It utilizes a machine learning model trained on historical IPL match data to make predictions.
 
